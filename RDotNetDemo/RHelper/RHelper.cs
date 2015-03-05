@@ -19,6 +19,7 @@ namespace RHelper
 
         private int sinkwidth = 1000;
 
+        // might need alteration to R-3.1.x
         private String rHome = @"c:\Program Files\R\R-3.1.0";
 
         private Boolean is64Bit = Environment.Is64BitProcess;
